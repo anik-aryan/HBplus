@@ -1,0 +1,10 @@
+# Dependencies & cache
+node_modules/
+.expo/
+dist/
+web-build/
+.git/
+
+# Generated native directories
+android/
+ios/
