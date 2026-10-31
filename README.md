@@ -2,6 +2,11 @@
 
 A cross-platform employee authentication application built using **React Native, Expo and Firebase**. It supports Google Sign-In and restricts access exclusively to users with `@hbplus.fit` email addresses.
 
+## Live Links
+
+- **Web Application:** [https://hbplus-employee-portal.netlify.app/](https://hbplus-employee-portal.netlify.app/)
+- **Android APK (Download):** [Google Drive Link](https://drive.google.com/file/d/1SeLpNLD2CYA0EHR46c-Ox2ddMAdeQBDj/view?usp=drivesdk)
+
 ## Prerequisites
 
 - Node.js and npm
